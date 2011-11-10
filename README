@@ -2,20 +2,19 @@
 = OVERVIEW
 ===================
 
-openGARP is an open-source, user-supported version of GARP
-(GEMPAK Analysis and Rendering Program), a program previously
-maintained by the Unidata Program Center (UPC) at UCAR.  
+GARP (GEMPAK Analysis and Rendering Program) is an X-Windows/Motif 
+software application originally developed by the UCAR Cooperative 
+Program for Operational Meteorology, Education and Training (COMET), 
+for the display and analysis of meteorological data sets. Supported 
+data sets include model data, satellite imagery in NOAAPort GINI 
+format or MCIDAS area file format, NIDS and Nowrad radar data, 
+surface data and upper air data.
+
+GARP was previously maintained by the Unidata Program Center at UCAR.
 
 This software package is released under the MIT license contained
 in the "LICENSE" file.
 
-GARP is an X-Windows/Motif software application originally 
-developed by the UCAR Cooperative Program for Operational 
-Meteorology, Education and Training (COMET), for the display and 
-analysis of meteorological data sets. Supported data sets include 
-model data, satellite imagery in NOAAPort GINI format or MCIDAS area 
-file format, NIDS and Nowrad radar data, surface data and upper 
-air data.
 
 ===================
 = INSTALLATION  
